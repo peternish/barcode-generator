@@ -7,7 +7,7 @@ Desktop app to generate EAN-13, EAN-8 and EAN-5 barcodes (other types are coming
 - [Pillow](https://pypi.python.org/pypi/Pillow/4.3.0)
 - [PyUPC-EAN](https://pypi.python.org/pypi/PyUPC-EAN/)
 
-Usage
+How to run the script
 -----
 
 Run script and set default values on Settings window. Then just click  `Generate` button: if barcode value is empty, then app generates barcode automatically according to initial value of barcode, else it generates by input value.
